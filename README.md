@@ -5,7 +5,7 @@ This workshop aims at learning the structural estimation methods, especially its
 ## Schedule
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
-Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides and arrange it by topics. 
+Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
 
 
 
@@ -51,6 +51,7 @@ Besides the presenter, audiences' critical, constructing comment also plays an i
 Below are some potential topics and related papers. These are flexible depending on participants, as long as they use structural estimation methods.
 
 ### Topic 1: International Trade
+>Antras P, Fort T C, Tintelnot F. The margins of global sourcing: Theory and evidence from us firms[J]. American Economic Review, 2017, 107(9): 2514-2564.
 
 
 ### Topic 2: Spatial Economics
@@ -65,7 +66,7 @@ The second one is quite challenging technically:
 ### Topic 4: Structural Labor
 > Ji Y. Job search under debt: Aggregate implications of student loans[J]. Journal of Monetary Economics, 2021, 117: 741-759.
 
-### Topic 5: Taxation
+### Topic 5: Tax Policy
 
 ### Topic 6: Networks Economics
 > Acemoglu D, García-Jimeno C, Robinson J A. State capacity and economic development: A network approach[J]. American economic review, 2015, 105(8): 2364-2409.
