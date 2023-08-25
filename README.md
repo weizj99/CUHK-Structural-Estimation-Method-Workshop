@@ -17,6 +17,7 @@ Since this workshop has wide positive externality (say, benefit future CUHK or m
 #### General Moment Method (GMM)
 #### Simulated Moment Method (SMM)
 #### Non-parametric Methods
+#### (TBD) Structural Estimation with Deep Learning (DL) and Generate Adversarial Networks (GAN)
 
 ### Statistical Computation Methods
 #### Expectation Maximization (EM) Algorithm
