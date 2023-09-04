@@ -59,6 +59,9 @@ Below are some potential topics and related papers. These are flexible depending
 
 
 ### Topic 3: Industrial Organization (or, in some sense, firm dynamics)
+>Barwick P J, Cao S, Li S. Local protectionism, market structure, and social welfare: China’s automobile market[J]. American Economic Journal: Economic Policy, 2021, 13(4): 112-151.
+
+
 The second one is quite challenging technically:
 >Chen Z, Liu Z, Suárez Serrato J C, et al. Notching R&D investment with corporate income tax cuts in China[J]. American Economic Review, 2021, 111(7): 2065-2100.    
 >König M, Storesletten K, Song Z, et al. From imitation to innovation: Where is all that Chinese R&D going?[J]. Econometrica, 2022, 90(4): 1615-1654.
