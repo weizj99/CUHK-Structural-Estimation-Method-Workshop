@@ -80,6 +80,8 @@ The second one is quite challenging technically:
 
 
 ## Some Useful Links
+### Chetty's Sufficient Statistics Slides
+[Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
 ### Richard Evan's Structural Estimation (in Python)
 [Rick's Github Repositories](https://github.com/rickecon/StructEst_W20)
 ### Christine Braun's Topics in Labor Economics, Lecture 5-9 (in Matlab)
