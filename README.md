@@ -7,6 +7,8 @@ This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts
 
 Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
 
+### Week 1 (Sep 18th) Introduction to Structural Estimation and Calibration
+### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
 
 
 ## Part I: Methodologies and Theories
