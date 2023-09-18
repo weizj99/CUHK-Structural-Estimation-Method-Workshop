@@ -82,6 +82,8 @@ The second one is quite challenging technically:
 
 
 ## Some Useful Links
+### Taylor's Introduction to Structural Estimation in Corporate Finance
+[Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
 ### Chetty's Sufficient Statistics Slides
 [Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
 ### Richard Evan's Structural Estimation (in Python)
