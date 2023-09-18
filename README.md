@@ -5,14 +5,20 @@ This workshop aims at learning the structural estimation methods, especially its
 ## Schedule (Updating)
 ### Week 1 (Sep 18th) Introduction to Structural Estimation, Sufficient Statistics and Calibration
 #### Related Reading
+
 ### Taylor's Introduction to Structural Estimation in Corporate Finance
 [Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
+
 ### Chetty's Sufficient Statistics Slides
 [Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
+
 ### Calibration
 [Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
+
 [Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
+
 [Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
+
 
 
 ### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
