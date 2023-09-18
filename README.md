@@ -86,6 +86,10 @@ The second one is quite challenging technically:
 [Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
 ### Chetty's Sufficient Statistics Slides
 [Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
+### Calibration
+[Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
+[Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
+[Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
 ### Richard Evan's Structural Estimation (in Python)
 [Rick's Github Repositories](https://github.com/rickecon/StructEst_W20)
 ### Christine Braun's Topics in Labor Economics, Lecture 5-9 (in Matlab)
