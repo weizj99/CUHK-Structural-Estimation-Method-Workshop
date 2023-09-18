@@ -2,13 +2,25 @@
 ## Introduction
 This workshop aims at learning the structural estimation methods, especially its implementation. Focus will be put on combing the data with models. Two parts will be included, the first is about methodologies of structural estimation, and the second is about its application in fields like labor, trade, industrial organization, etc.
 
-## Schedule
+## Schedule (Updating)
+### Week 1 (Sep 18th) Introduction to Structural Estimation, Sufficient Statistics and Calibration
+#### Related Reading
+### Taylor's Introduction to Structural Estimation in Corporate Finance
+[Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
+### Chetty's Sufficient Statistics Slides
+[Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
+### Calibration
+[Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
+[Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
+[Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
+
+
+### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
+
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
 Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
 
-### Week 1 (Sep 18th) Introduction to Structural Estimation, Sufficient Statistics and Calibration
-### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
 
 
 ## Part I: Methodologies and Theories
@@ -82,14 +94,6 @@ The second one is quite challenging technically:
 
 
 ## Some Useful Links
-### Taylor's Introduction to Structural Estimation in Corporate Finance
-[Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
-### Chetty's Sufficient Statistics Slides
-[Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
-### Calibration
-[Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
-[Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
-[Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
 ### Richard Evan's Structural Estimation (in Python)
 [Rick's Github Repositories](https://github.com/rickecon/StructEst_W20)
 ### Christine Braun's Topics in Labor Economics, Lecture 5-9 (in Matlab)
