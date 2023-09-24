@@ -5,18 +5,13 @@ This workshop aims at learning the structural estimation methods, especially its
 ## Schedule (Updating)
 ### Week 1 (Sep 18th) Introduction to Structural Estimation, Sufficient Statistics and Calibration
 #### Related Reading
-
 #### Taylor's Introduction to Structural Estimation in Corporate Finance
 [Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
-
 #### Chetty's Sufficient Statistics Slides
 [Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
-
 #### Calibration
 [Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
-
 [Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
-
 [Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
 
 
@@ -28,8 +23,8 @@ This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts
 Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
 
 #### Related Reading
-#### [Mikusheva's Bootstrap Note](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf)
-#### [Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
+[Mikusheva's Bootstrap Note](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf)
+[Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
 
 
 ## Part I: Methodologies and Theories
