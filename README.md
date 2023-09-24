@@ -17,14 +17,13 @@ This workshop aims at learning the structural estimation methods, especially its
 
 
 ### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
+#### Related Reading
+[Mikusheva's Bootstrap Note](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf)
 
+[Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
 Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
-
-#### Related Reading
-[Mikusheva's Bootstrap Note](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf)
-[Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
 
 
 ## Part I: Methodologies and Theories
