@@ -25,10 +25,21 @@ This workshop aims at learning the structural estimation methods, especially its
 #### Xu's Bootstrap slides
 [Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
 
+### Week 3 (Oct 16th) GMM and SMM
+#### Related Reading
+#### Jalali's SMM note
+[Jalali's note](https://scholar.harvard.edu/files/jalali/files/msm_book_chapter.pdf)
+
+#### Quant Econ's SMM note
+[Quant Econ note](https://notes.quantecon.org/submission/5b3db2ceb9eab00015b89f93)
+
+#### Braun's GMM and SMM note
+[Braun's SMM](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/GMM.pdf)
+[Braun's GMM](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/SMM.pdf)
+
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
 Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
-
 
 ## Part I: Methodologies and Theories
 ### Introduction
