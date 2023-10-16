@@ -118,3 +118,5 @@ The second one is quite challenging technically:
 [Christine's Github Repositories](https://christine-braun.github.io/teaching-labor.html)
 ### Taber's Structural Estimation Theory Notes
 [Taber's notes](https://users.ssc.wisc.edu/~ctaber/718/struct.pdf)
+### Train's Discrete Choice Methods with Simulation
+[Train's book](https://eml.berkeley.edu/books/train1201.pdf)
