@@ -39,8 +39,14 @@ This workshop aims at learning the structural estimation methods, especially its
 
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
-Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
+### Week 4 (Oct 30th): Deep Learning as Surrogates
+#### Related Reading
+[JFV's Deep Learning Materials](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+[Deep HAM](https://github.com/frankhan91/DeepHAM)
 
+
+
+Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
 ## Part I: Methodologies and Theories
 ### Introduction
 ### Estimation Methods
