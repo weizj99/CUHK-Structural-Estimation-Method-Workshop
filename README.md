@@ -41,6 +41,7 @@ This workshop aims at learning the structural estimation methods, especially its
 ### Week 4 (Oct 30th): Deep Learning as Surrogates
 #### Related Reading
 [JFV's Deep Learning Materials](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+
 [Deep HAM](https://github.com/frankhan91/DeepHAM)
 
 ### Week 5 (Nov 13th): Notching R&D Investment with Corporate Income Tax Cuts in China (SMM, MCMC)
