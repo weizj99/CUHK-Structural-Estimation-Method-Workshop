@@ -45,7 +45,12 @@ This workshop aims at learning the structural estimation methods, especially its
 [Deep HAM](https://github.com/frankhan91/DeepHAM)
 
 ### Week 5 (Nov 13th): Notching R&D Investment with Corporate Income Tax Cuts in China (SMM, MCMC)
->Chen Z, Liu Z, Suárez Serrato J C, et al. Notching R&D investment with corporate income tax cuts in China[J]. American Economic Review, 2021, 111(7): 2065-2100.    
+>Chen Z, Liu Z, Suárez Serrato J C, et al. Notching R&D investment with corporate income tax cuts in China[J]. American Economic Review, 2021, 111(7): 2065-2100.
+
+
+### Week 6 (Nov 27th): Trade, Migration, and Productivity: A Quantitative Analysis of China (Structual model combining calibration, regression especially IV, as well as introduction to Logit)
+>Tombe, Trevor, and Xiaodong Zhu. "Trade, migration, and productivity: A quantitative analysis of china." American Economic Review 109.5 (2019): 1843-1872.
+
 
 This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
 
