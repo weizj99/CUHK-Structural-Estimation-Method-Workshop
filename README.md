@@ -39,6 +39,7 @@ This workshop aims at learning the structural estimation methods, especially its
 
 
 ### Week 4 (Oct 30th): Deep Learning as Surrogates
+>Chen, Hui, Antoine Didisheim, and Simon Scheidegger. "Deep Surrogates for Finance: With an Application to Option Pricing." Available at SSRN 3782722 (2021).
 #### Related Reading
 [JFV's Deep Learning Materials](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 
