@@ -1,137 +1,80 @@
 # CUHK Structural Estimation Method Workshop
-## Introduction
-This workshop aims at learning the structural estimation methods, especially its implementation. Focus will be put on combing the data with models. Two parts will be included, the first is about methodologies of structural estimation, and the second is about its application in fields like labor, trade, industrial organization, etc.
 
-## Schedule (Updating)
-### Week 1 (Sep 18th) Introduction to Structural Estimation, Sufficient Statistics and Calibration
-#### Related Reading
-#### Taylor's Introduction to Structural Estimation in Corporate Finance
-[Taylor's introduction](http://finance-faculty.wharton.upenn.edu/luket/wp-content/uploads/sites/10/2017/04/Structural_estimation_2017.pdf)
-#### Chetty's Sufficient Statistics Slides
-[Chetty's Sufficient Statistics](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf)
-#### Calibration
-[Sargent's Calibration](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf)
+**Connecting economic models, data, and estimation.**
 
-[Bayesian Calibration](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdfv)
+This workshop connects economic models to data through parameter estimation and quantitative analysis. The emphasis is on implementation: how the methods work and how they are used in research. This repository collects eight sets of lecture slides and selected readings.
 
-[Johari's Calibration](https://www.studocu.com/en-us/document/stanford-university/game-theory-with-engineering-applications/lecture-notes-on-calibration/746869)
+## Learning path
 
+> Economic question → model and data → estimation and computation → quantitative implications
 
+The first four lectures introduce estimation methods and computational tools. The next four turn to research applications and extensions, including tax policy, trade and migration, heterogeneity, and frictions.
 
-### Week 2 (Sep 25th) MLE, EM Algorithm, Bootstrap
-#### Related Reading
-#### Mikusheva's Bootstrap lecture note
-[Mikusheva's Bootstrap Note](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf)
-#### Xu's Bootstrap slides
-[Xu's Bootstrap Note](https://homepage.ntu.edu.tw/~ckuan/pdf/2014fall/Lecture-Bootstrap-%E6%96%B0%E7%89%88141211-%E8%A8%B1%E8%82%B2%E9%80%B2.pdf)
+### Part I · Methods and computation
 
-### Week 3 (Oct 16th) GMM and SMM
-#### Related Reading
-#### Jalali's SMM note
-[Jalali's note](https://scholar.harvard.edu/files/jalali/files/msm_book_chapter.pdf)
+Start with how models connect to data, then study likelihood and moment-based estimation. The final lecture in this part introduces deep learning surrogates for model computation.
 
-#### Quant Econ's SMM note
-[Quant Econ note](https://notes.quantecon.org/submission/5b3db2ceb9eab00015b89f93)
+| Lecture | Topic | Materials |
+| --- | --- | --- |
+| 1 | Introduction, sufficient statistics, and calibration | [Slides](Lec1_Introduction_SuffStat_Calibration.pdf) · [Reading](#lecture-1) |
+| 2 | Maximum likelihood estimation and bootstrap | [Slides](Lec2_MLE_and_Bootstrap.pdf) · [Reading](#lecture-2) |
+| 3 | Generalized method of moments and simulated method of moments | [Slides](Lec3_GMM_SMM.pdf) · [Reading](#lecture-3) |
+| 4 | Deep learning surrogates | [Slides](Lec4_Deep_Learning_Surrogates.pdf) · [Reading](#lecture-4) |
 
-#### Braun's GMM and SMM note
-[Braun's SMM](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/GMM.pdf)
-[Braun's GMM](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/SMM.pdf)
+### Part II · Applications and extensions
 
+Use the methods above to read applied research: connect the economic question to the model, understand how its parameters are estimated, and examine the resulting quantitative analysis.
 
-### Week 4 (Oct 30th): Deep Learning as Surrogates
->Chen, Hui, Antoine Didisheim, and Simon Scheidegger. "Deep Surrogates for Finance: With an Application to Option Pricing." Available at SSRN 3782722 (2021).
-#### Related Reading
-[JFV's Deep Learning Materials](https://www.sas.upenn.edu/~jesusfv/teaching.html)
+| Lecture | Topic | Materials |
+| --- | --- | --- |
+| 5 | Notching R&D investment with corporate income tax cuts in China | [Slides](Lec5_Notching_R_D_Investment_with_Corporate_Income_Tax_Cuts_in_China_tex.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20191758) |
+| 6 | Trade, migration, and productivity | [Slides](Lec6_Trade_Migration_Productivity.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20150811) |
+| 7 | Distribution framework and heterogeneity | [Slides](Lec7_Distribution_Framework_Heterogeneity.pdf) · [Paper](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15722) |
+| 8 | Diffuse bunching with frictions | [Slides](Lec8_Diffuse_Bunching_with_Frictions.pdf) · [Paper](https://benlockwood.com/papers/Anagol_Davids_Lockwood_Ramadorai_Diffuse_Bunching_with_Frictions.pdf) |
 
-[Deep HAM](https://github.com/frankhan91/DeepHAM)
+## Readings by lecture
 
-### Week 5 (Nov 13th): Notching R&D Investment with Corporate Income Tax Cuts in China (SMM, MCMC)
->Chen, Zhao, et al. "Notching R&D investment with corporate income tax cuts in China." American Economic Review 111.7 (2021): 2065-2100.
+These links point to the material relevant to each lecture. PDF page numbers count from the first page of the file; external lecture numbers refer to the source course.
 
+### Lecture 1
 
-### Week 6 (Nov 27th): Trade, Migration, and Productivity: A Quantitative Analysis of China (Structual model combining calibration, regression especially IV, as well as introduction to Logit)
->Tombe, Trevor, and Xiaodong Zhu. "Trade, migration, and productivity: A quantitative analysis of china." American Economic Review 109.5 (2019): 1843-1872.
+- [Chetty — Sufficient Statistics for Welfare Analysis: “General Framework,” PDF p. 17](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf#page=17).
+- [Tomás R. Martinez — Calibration and the Use of Data in Macroeconomics: “Calibration,” PDF pp. 6–10](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf#page=6).
+- Further reading: [Kennedy and O’Hagan — Bayesian Calibration of Computer Models, Section 1: “Overview”](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdf#page=1).
 
+### Lecture 2
 
-This workshop scheduled to be weekly, lasting for 10 or 11 weeks. For both parts, participants make presentation in turns. Each meeting will be less than 2 hours, the day and time is TBD. 
+- [Braun — external Lecture 5: Maximum Likelihood Estimation](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/MLE.pdf).
+- [Mikusheva — Lecture 9: Bootstrap, “Bootstrap” section and resampling algorithm, PDF p. 2](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf#page=2).
 
-Since this workshop has wide positive externality (say, benefit future CUHK or more Econ students) and has no grading like a lecture, participants need to make some commitment  before they decide to participate, i.e., absent no more than 3 times in total. We will manage this Github repository together by uploading codes, slides, useful meterials, and arrange them by topics. 
-## Part I: Methodologies and Theories
-### Introduction
-### Estimation Methods
-#### Calibration
-#### Maximum Likelihood Estimation (MLE)
-#### General Moment Method (GMM)
-#### Simulated Moment Method (SMM)
-#### Non-parametric Methods
-#### (TBD) Structural Estimation with Deep Learning (DL) and Generate Adversarial Networks (GAN)
+### Lecture 3
 
-### Statistical Computation Methods
-#### Expectation Maximization (EM) Algorithm
-#### Markov Chain Monte Carlo (MCMC)
+- [Braun — external Lecture 6: Generalized Method of Moments](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/GMM.pdf).
+- [Braun — external Lecture 7: Simulated Method of Moments and Indirect Inference](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/SMM.pdf).
 
+### Lecture 4
 
-## Part II: Topics and Practices(tentative)
-For this part's presentation, 
+- [AI for Structural Estimation](https://www.juliafonseca.com/_files/ugd/f9db9d_30250e70dd5b4a16b1d6e716579a6f8b.pdf): neural-network approximations to model moments for structural estimation.
+- [DeepHAM — “Running” section](https://github.com/frankhan91/DeepHAM#running): an external implementation example, with a Krusell–Smith quick start and a second model example.
 
-### 1. use **no more than** 30 mins to make audiences know:  
-  -the key idea of models,   
-  -the theoretical predictions,    
-  -the estimation targets.    
+The paper links beside Lectures 5–8 lead to the corresponding research papers.
 
-### 2. Use 45-60 mins for presenting details of estimation, including methodologies, data and implementation, which includes
- -how you implement them, 
- -what difficulties you met during the process, and 
- -what you think is the key technical points.   
- -differences between your results and the paper (if any), and why.   
+## From reading to implementation
 
-For many papers, replication packages can be found easily, but we recommend do it again on your own, rewrite the code under the guidance and rearrange them. Also, reading the online appendix helps form a deeper understanding of techniques.  
+For each application, work through four questions:
 
-The main goal of the estimation part is to get familiar with the implementation of structural estimation methods, so please **replicate one paper's result (key result is enough, and if there're many countries or regions, one country is enough; some technical points can be discussed further in workshop) and upload the codes as well as slides before each workshop**, so that the coding details can be learned together. 
+1. **Model:** What is the economic question, and which assumptions and mechanisms address it?
+2. **Data:** Which observations or moments inform the parameters?
+3. **Estimation:** How are the model and estimator implemented, and what numerical difficulties arise?
+4. **Results:** How well does the model fit the data, and what quantitative implications follow?
 
-Group work with no more than three members and presenting own papers using structural estimation (if any) are encouraged. 
+For hands-on study, read the paper's technical appendix and work through one key result. Compare it with the published result and trace any differences to the data, assumptions, or implementation.
 
-### 3. Use about 15 mins for discussion. 
-Another goal of this workshop is to practice presentation skills. Participants are from different fields, so it's important to convey the key idea of the model to someone even not familiar with that stream of literature. Although the technical part, on the other hand, is more common to participants, it's also challenging to organize and describe the process clearly to audiencies. This requires the presenter to know clearly about the paper.
+## Selected references
 
-Besides the presenter, audiences' critical, constructing comment also plays an important role. We hope to make informative discussion about the paper, especially ideas from different fields.
+- [Structural Estimation in Python](https://github.com/rickecon/StructEst_W20) — Richard W. Evans.
+- [Topics in Labor Economics](https://christine-braun.github.io/teaching-labor.html) — Christine Braun.
+- [Structural Estimation](https://users.ssc.wisc.edu/~ctaber/718/struct.pdf) — Christopher Taber.
+- [Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/train1201.pdf) — Kenneth Train.
 
-Below are some potential topics and related papers. These are flexible depending on participants, as long as they use structural estimation methods.
-
-### Topic 1: International Trade
->Antras P, Fort T C, Tintelnot F. The margins of global sourcing: Theory and evidence from us firms[J]. American Economic Review, 2017, 107(9): 2514-2564.
-
-
-### Topic 2: Spatial Economics
-
-
-### Topic 3: Industrial Organization (or, in some sense, firm dynamics)
->Barwick P J, Cao S, Li S. Local protectionism, market structure, and social welfare: China’s automobile market[J]. American Economic Journal: Economic Policy, 2021, 13(4): 112-151.
-
-
-The second one is quite challenging technically:
->Chen Z, Liu Z, Suárez Serrato J C, et al. Notching R&D investment with corporate income tax cuts in China[J]. American Economic Review, 2021, 111(7): 2065-2100.    
->König M, Storesletten K, Song Z, et al. From imitation to innovation: Where is all that Chinese R&D going?[J]. Econometrica, 2022, 90(4): 1615-1654.
-
-
-### Topic 4: Structural Labor
-> Ji Y. Job search under debt: Aggregate implications of student loans[J]. Journal of Monetary Economics, 2021, 117: 741-759.
-
-### Topic 5: Tax Policy
-
-### Topic 6: Networks Economics
-> Acemoglu D, García-Jimeno C, Robinson J A. State capacity and economic development: A network approach[J]. American economic review, 2015, 105(8): 2364-2409.
-
-
-
-
-
-## Some General Reference Links
-### Richard Evan's Structural Estimation (in Python)
-[Rick's Github Repositories](https://github.com/rickecon/StructEst_W20)
-### Christine Braun's Topics in Labor Economics, Lecture 5-9 (in Matlab)
-[Christine's Github Repositories](https://christine-braun.github.io/teaching-labor.html)
-### Taber's Structural Estimation Theory Notes
-[Taber's notes](https://users.ssc.wisc.edu/~ctaber/718/struct.pdf)
-### Train's Discrete Choice Methods with Simulation
-[Train's book](https://eml.berkeley.edu/books/train1201.pdf)
+Please cite the original authors when using the linked papers, books, and teaching materials.
