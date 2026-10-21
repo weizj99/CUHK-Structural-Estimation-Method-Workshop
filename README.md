@@ -54,6 +54,7 @@ These links point to the material relevant to each lecture. PDF page numbers cou
 
 ### Lecture 4
 
+- [AI for Structural Estimation](https://www.juliafonseca.com/_files/ugd/f9db9d_30250e70dd5b4a16b1d6e716579a6f8b.pdf): neural-network approximations to model moments for structural estimation.
 - [DeepHAM — “Running” section](https://github.com/frankhan91/DeepHAM#running): an external implementation example, with a Krusell–Smith quick start and a second model example.
 
 The paper links beside Lectures 5 and 6 lead to the original articles.
