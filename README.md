@@ -29,8 +29,8 @@ Use the methods above to read applied research: connect the economic question to
 | --- | --- | --- |
 | 5 | Notching R&D investment with corporate income tax cuts in China | [Slides](Lec5_Notching_R_D_Investment_with_Corporate_Income_Tax_Cuts_in_China_tex.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20191758) |
 | 6 | Trade, migration, and productivity | [Slides](Lec6_Trade_Migration_Productivity.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20150811) |
-| 7 | Distribution framework and heterogeneity | [Slides](Lec7_Distribution_Framework_Heterogeneity.pdf) |
-| 8 | Diffuse bunching with frictions | [Slides](Lec8_Diffuse_Bunching_with_Frictions.pdf) |
+| 7 | Distribution framework and heterogeneity | [Slides](Lec7_Distribution_Framework_Heterogeneity.pdf) · [Paper](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15722) |
+| 8 | Diffuse bunching with frictions | [Slides](Lec8_Diffuse_Bunching_with_Frictions.pdf) · [Paper](https://benlockwood.com/papers/Anagol_Davids_Lockwood_Ramadorai_Diffuse_Bunching_with_Frictions.pdf) |
 
 ## Readings by lecture
 
@@ -57,7 +57,7 @@ These links point to the material relevant to each lecture. PDF page numbers cou
 - [AI for Structural Estimation](https://www.juliafonseca.com/_files/ugd/f9db9d_30250e70dd5b4a16b1d6e716579a6f8b.pdf): neural-network approximations to model moments for structural estimation.
 - [DeepHAM — “Running” section](https://github.com/frankhan91/DeepHAM#running): an external implementation example, with a Krusell–Smith quick start and a second model example.
 
-The paper links beside Lectures 5 and 6 lead to the original articles.
+The paper links beside Lectures 5–8 lead to the corresponding research papers.
 
 ## From reading to implementation
 
