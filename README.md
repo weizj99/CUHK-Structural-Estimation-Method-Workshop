@@ -14,23 +14,49 @@ The first four lectures introduce estimation methods and computational tools. Th
 
 Start with how models connect to data, then study likelihood and moment-based estimation. The final lecture in this part introduces deep learning surrogates for model computation.
 
-| Lecture | Topic | Slides |
+| Lecture | Topic | Materials |
 | --- | --- | --- |
-| 1 | Introduction, sufficient statistics, and calibration | [PDF](Lec1_Introduction_SuffStat_Calibration.pdf) |
-| 2 | Maximum likelihood estimation and bootstrap | [PDF](Lec2_MLE_and_Bootstrap.pdf) |
-| 3 | Generalized method of moments and simulated method of moments | [PDF](Lec3_GMM_SMM.pdf) |
-| 4 | Deep learning surrogates | [PDF](Lec4_Deep_Learning_Surrogates.pdf) |
+| 1 | Introduction, sufficient statistics, and calibration | [Slides](Lec1_Introduction_SuffStat_Calibration.pdf) · [Reading](#lecture-1) |
+| 2 | Maximum likelihood estimation and bootstrap | [Slides](Lec2_MLE_and_Bootstrap.pdf) · [Reading](#lecture-2) |
+| 3 | Generalized method of moments and simulated method of moments | [Slides](Lec3_GMM_SMM.pdf) · [Reading](#lecture-3) |
+| 4 | Deep learning surrogates | [Slides](Lec4_Deep_Learning_Surrogates.pdf) · [Reading](#lecture-4) |
 
 ### Part II · Applications and extensions
 
 Use the methods above to read applied research: connect the economic question to the model, understand how its parameters are estimated, and examine the resulting quantitative analysis.
 
-| Lecture | Topic | Slides |
+| Lecture | Topic | Materials |
 | --- | --- | --- |
-| 5 | Notching R&D investment with corporate income tax cuts in China | [PDF](Lec5_Notching_R_D_Investment_with_Corporate_Income_Tax_Cuts_in_China_tex.pdf) |
-| 6 | Trade, migration, and productivity | [PDF](Lec6_Trade_Migration_Productivity.pdf) |
-| 7 | Distribution framework and heterogeneity | [PDF](Lec7_Distribution_Framework_Heterogeneity.pdf) |
-| 8 | Diffuse bunching with frictions | [PDF](Lec8_Diffuse_Bunching_with_Frictions.pdf) |
+| 5 | Notching R&D investment with corporate income tax cuts in China | [Slides](Lec5_Notching_R_D_Investment_with_Corporate_Income_Tax_Cuts_in_China_tex.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20191758) |
+| 6 | Trade, migration, and productivity | [Slides](Lec6_Trade_Migration_Productivity.pdf) · [Paper](https://www.aeaweb.org/articles?id=10.1257/aer.20150811) |
+| 7 | Distribution framework and heterogeneity | [Slides](Lec7_Distribution_Framework_Heterogeneity.pdf) |
+| 8 | Diffuse bunching with frictions | [Slides](Lec8_Diffuse_Bunching_with_Frictions.pdf) |
+
+## Readings by lecture
+
+These links point to the material relevant to each lecture. PDF page numbers count from the first page of the file; external lecture numbers refer to the source course.
+
+### Lecture 1
+
+- [Chetty — Sufficient Statistics for Welfare Analysis: “General Framework,” PDF p. 17](https://rajchetty.com/wp-content/uploads/2021/04/slides_areview_suffstat.pdf#page=17).
+- [Tomás R. Martinez — Calibration and the Use of Data in Macroeconomics: “Calibration,” PDF pp. 6–10](https://tomasrm.github.io/teaching/quantmacro/data_macro.pdf#page=6).
+- Further reading: [Kennedy and O’Hagan — Bayesian Calibration of Computer Models, Section 1: “Overview”](https://www.asc.ohio-state.edu/statistics/comp_exp/jour.club/kennedy01.pdf#page=1).
+
+### Lecture 2
+
+- [Braun — external Lecture 5: Maximum Likelihood Estimation](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/MLE.pdf).
+- [Mikusheva — Lecture 9: Bootstrap, “Bootstrap” section and resampling algorithm, PDF p. 2](https://ocw.mit.edu/courses/14-384-time-series-analysis-fall-2013/2fdf997bca65d6ed82ba7a94f6cdc970_MIT14_384F13_lec9.pdf#page=2).
+
+### Lecture 3
+
+- [Braun — external Lecture 6: Generalized Method of Moments](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/GMM.pdf).
+- [Braun — external Lecture 7: Simulated Method of Moments and Indirect Inference](https://christine-braun.github.io/Lecture_Notes/WarwickLabor/SMM.pdf).
+
+### Lecture 4
+
+- [DeepHAM — “Running” section](https://github.com/frankhan91/DeepHAM#running): an external implementation example, with a Krusell–Smith quick start and a second model example.
+
+The paper links beside Lectures 5 and 6 lead to the original articles.
 
 ## From reading to implementation
 
